@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87a924ef-cdc0-4030-9586-dccfa69d1f5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ParcelScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParcelScreenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RedditDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RedditScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RedditScreenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.YahooFolder/auctions/470349095" beforeDir="false" afterPath="$PROJECT_DIR$/.YahooFolder/auctions/470349095" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.YahooFolder/auctions/b469505339" beforeDir="false" afterPath="$PROJECT_DIR$/.YahooFolder/auctions/b469505339" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.YahooFolder/auctions/n425661355" beforeDir="false" afterPath="$PROJECT_DIR$/.YahooFolder/auctions/n425661355" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.YahooFolder/auctions/s738834370" beforeDir="false" afterPath="$PROJECT_DIR$/.YahooFolder/auctions/s738834370" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BusinessTool/AuctionDetail.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BusinessTool/AuctionDetail.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionDetail.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionDetail.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuctionScreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuctionScreenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainScreenController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainScreenController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YahooAuctionHub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YahooAuctionHub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YahooAuctionListing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/YahooAuctionListing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZenmarketHub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZenmarketHub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw7/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hw7/Sum.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cyHF1p25FsGuCx9hoFAHgHno8u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/SceneBuilder/app/icon-windows.ico" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RunManager" selected="Application.GUI">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="BusinessTool" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Jeffrey Wu\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="USPSTracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="USPSTracking" />
+      <module name="BusinessTool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YahooAuctionListing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YahooAuctionListing" />
+      <module name="BusinessTool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YahooAuctionScraper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YahooAuctionScraper" />
+      <module name="BusinessTool" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="USPSUnitTests.testParseDate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BusinessTool" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="USPSUnitTests" />
+      <option name="METHOD_NAME" value="testParseDate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GUI" />
+      <item itemvalue="Application.USPSTracking" />
+      <item itemvalue="Application.YahooAuctionListing" />
+      <item itemvalue="Application.YahooAuctionScraper" />
+      <item itemvalue="JUnit.USPSUnitTests.testParseDate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.YahooAuctionScraper" />
+        <item itemvalue="Application.USPSTracking" />
+        <item itemvalue="Application.YahooAuctionListing" />
+        <item itemvalue="JUnit.USPSUnitTests.testParseDate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87a924ef-cdc0-4030-9586-dccfa69d1f5e" name="Default Changelist" comment="" />
+      <created>1591493805763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591493805763</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1592177362688">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1592177362688" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592195788032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1592195788032" />
+    <state x="423" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592913626828">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="423" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1592913626828" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1592868493408">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1592868493408" />
+    <state x="396" y="45" key="#xdebugger.evaluate" timestamp="1591680660126">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="45" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1591680660126" />
+    <state x="395" y="57" key="DetectedRootsChooserDialog" timestamp="1591663160142">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="395" y="57" key="DetectedRootsChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1591663160142" />
+    <state x="575" y="166" key="FileChooserDialogImpl" timestamp="1592196328270">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="575" y="166" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1592196328270" />
+    <state width="1237" height="151" key="GridCell.Tab.0.bottom" timestamp="1592914298049">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592914298049" />
+    <state width="1237" height="151" key="GridCell.Tab.0.center" timestamp="1592914298049">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592914298049" />
+    <state width="1237" height="151" key="GridCell.Tab.0.left" timestamp="1592914298049">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592914298049" />
+    <state width="1237" height="151" key="GridCell.Tab.0.right" timestamp="1592914298049">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592914298049" />
+    <state width="1237" height="151" key="GridCell.Tab.1.bottom" timestamp="1592914298050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592914298050" />
+    <state width="1237" height="151" key="GridCell.Tab.1.center" timestamp="1592914298050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1592914298050" />
+    <state width="1237" height="151" key="GridCell.Tab.1.left" timestamp="1592914298049">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1592914298049" />
+    <state width="1237" height="151" key="GridCell.Tab.1.right" timestamp="1592914298050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1592914298050" />
+    <state width="1237" height="151" key="GridCell.Tab.2.bottom" timestamp="1592914298050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592914298050" />
+    <state width="1237" height="151" key="GridCell.Tab.2.center" timestamp="1592914298050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1592914298050" />
+    <state width="1237" height="151" key="GridCell.Tab.2.left" timestamp="1592914298050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1592914298050" />
+    <state width="1237" height="151" key="GridCell.Tab.2.right" timestamp="1592914298050">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="151" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1592914298050" />
+    <state x="110" y="0" key="SettingsEditor" timestamp="1592196329527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="110" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592196329527" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1592721909517">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592721909517" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1592196322823">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1592196322823" />
+  </component>
+</project>
